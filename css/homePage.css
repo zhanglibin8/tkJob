@@ -1,0 +1,45 @@
+.title{
+    width: 100%;
+    height: 138px;
+    background: red;
+}
+.title div{
+    float: left;
+}
+.title .titleLeft img{
+    margin-left: 361px;
+}
+.title span{
+    display: inline-block;
+    margin-left: 45px;
+    margin-right: 45px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 131px;
+    border-bottom:6px solid #ea2f26;
+}
+.title .titleRight .one{
+    margin-left: 252px;
+}
+.carousel{
+    width: 100%;
+}
+.carousel img{
+    width: 100%;
+}
+.nav{
+    width: 100%;
+    height: 74px;
+    background: yellow;
+    margin-top: 21px;
+}
+.nav p{
+    float: left;
+    width: 237px;
+    height: 71px;
+    border-bottom: 2px solid #c91b1d;
+    font-size: 29px;
+    text-align:center ;
+    line-height: 71px;
+}

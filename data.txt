@@ -1,0 +1,4 @@
+[
+    {"src":"img/2.gif"},
+    {"src":"img/3.gif"}
+]
